@@ -17,6 +17,7 @@ I'm not sure how I'll balance writing here vs. on my actual physical journals. I
 - [[Digital Brain/080 Journal/Develop a hall of fame mindset\|Develop a hall of fame mindset]]
 - [[Digital Brain/080 Journal/Learn in public\|Learn in public]]
 - [[Digital Brain/080 Journal/My north star\|My north star]]
+- [[Digital Brain/080 Journal/Principles\|Principles]]
 - [[Digital Brain/080 Journal/Selling pokemon cards in 3rd grade\|Selling pokemon cards in 3rd grade]]
 - [[Digital Brain/080 Journal/When taking a step back is the right move forward\|When taking a step back is the right move forward]]
 - [[Digital Brain/080 Journal/Why I deleted my Instagram page with over 10k followers\|Why I deleted my Instagram page with over 10k followers]]
