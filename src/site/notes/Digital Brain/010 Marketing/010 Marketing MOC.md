@@ -69,10 +69,12 @@ I hope you find value.
 - Get creative beyond your circle
 - Authentic cold outreach
 
-Cost-effective user acquisition
-- Guerrilla marketing tactics
-- Coco Swirl case study
-- Utilizing free tools and platforms for promotion
+[[Digital Brain/010 Marketing/Guerilla marketing tactics\|Guerilla marketing tactics]]
+- Stunts
+- User-generated contests (case study)
+- Partner with the unexpected
+- Go where your audience is
+- The possibilities are endless
 
 Content marketing 
 - Content marketing strategies 
