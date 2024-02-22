@@ -12,7 +12,7 @@ Key data presentation skills
 Types of presentation themes
 - Strategies for measurement
 - Budget and spend requests
-- [[Competitive analysis\|Competitive analysis]] or market research
+- Competitive analysis or market research
 - Campaign performance
 - [[Digital Brain/010 Marketing/AB testing\|AB testing]] or survey results
 
