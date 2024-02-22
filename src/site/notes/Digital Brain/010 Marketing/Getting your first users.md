@@ -11,7 +11,7 @@ Don't waste your time inviting everyone and anyone, they have to fit your early 
 
 ### The golden elif statement
 
-When you reach out, whether they say yes or no, follow the golden elif statement: ask them if they know someone who might be interested. This is your first taste of a referral program, we'll talk more about that later. This isn’t just about getting users; it’s about building your first community of believers. You don't need 100 users this early in the game, you just need 10 to be your alpha testers. 
+Ok nerds, elif is short for "else if" also known as if this happens then do this. The golden elif statement is when you reach out to people, whether they say yes or no, do this: ask them if they know someone who might be interested. This is your first taste of a referral program, we'll talk more about that later. This isn’t just about getting users; it’s about building your first community of believers. You don't need 100 users this early in the game, you just need 10 to be your alpha testers. 
 
 ### Get creative beyond your circle
 
