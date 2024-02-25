@@ -35,3 +35,7 @@ ind the places your competitors haven’t even thought to look. Think bathroom s
 ### The possibilities are endless
 
 Guerilla marketing is about thinking outside the box -- way way way outside the box. When you're in the early stages of a startup you have a lot less to lose and can be highly risk averse. So swing with everything you've got, the umpire isn't watching.
+
+[[Digital Brain/010 Marketing/Content marketing\|Content marketing]]
+
+[[Digital Brain/010 Marketing/010 Marketing MOC\|010 Marketing MOC]]
