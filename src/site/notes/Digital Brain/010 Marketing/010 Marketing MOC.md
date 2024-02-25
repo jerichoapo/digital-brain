@@ -46,7 +46,7 @@ I hope you find value.
 - Understanding TAM
 - Framework to calculate TAM
 - How to run competitive research
-- The research trap. Customers > Competition/Market
+- The research trap. Customers > Competition/market
 
 [[Digital Brain/010 Marketing/The metrics that matter\|The metrics that matter]]
 - The North Star
@@ -76,11 +76,10 @@ I hope you find value.
 - Go where your audience is
 - The possibilities are endless
 
-Content marketing 
-- Content marketing strategies 
-- Story of Stuff case study
-- Content types
-- Curating and repurposing content 
+[[Digital Brain/010 Marketing/Content marketing\|Content marketing]]
+- Advantages
+- Disadvantages
+- Building an MVP content machine
 
 SEO 
 - Developing a content strategy that drives growth and optimizing for search engines
@@ -166,4 +165,3 @@ Keeping up with growth marketing trends
 
 Next steps
 - Continuous learning and improvement
-
