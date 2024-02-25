@@ -10,7 +10,7 @@ My writing is imperfect whether that's typos, grammar, lack of formatting, etc. 
 
 This website is a continuous work-in-progress. It's me working with the garage door open for anyone to come in and look around.
 
-A little about me. I'm a father, husband, and startup nerd. I'm passionate about building things whether that's media like this website or coding random stuff that's fun and/or useful to me.
+A little about me. I'm a dad, husband, and startup nerd. I'm passionate about building things whether that's media like this website or coding random stuff that's fun and/or useful to me.
 
 I’m a human who loves to solve for *x*. 
 
