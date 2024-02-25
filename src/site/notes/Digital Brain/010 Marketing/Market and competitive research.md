@@ -37,7 +37,7 @@ Branding and messaging are also key. How do they position themselves, and what's
 Compile all this into a competitive analysis that's more than just a document—it's a playbook for your strategy. It should inform your decisions, from product tweaks to marketing campaigns.
 
 Your competition aren't those who offer a similar technology. It's those who are targeting the same customers with a similar problem. Those who solve the same problem for the same target customers.
-### The research trap. Customers > Competition/Market
+### The research trap. Customers > Competition/market
 
 Obsessing over the competition can lead you down a path of reactive strategies, where you’re always one step behind, mimicking rather than innovating. It feels productive to lurk.
 
