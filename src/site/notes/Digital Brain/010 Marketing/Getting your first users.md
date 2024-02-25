@@ -44,4 +44,6 @@ Regardless if they say yes or no, remember the golden elif statement: ask if the
 
 And that's it. You're not pretending to be a faceless brand, you're a person reaching out to another person for a bit of help and insight. That's the kind of authenticity that can turn a cold email into a warm connection.
 
+[[Digital Brain/010 Marketing/Guerilla marketing tactics\|Guerilla marketing tactics]]
+
 [[Digital Brain/010 Marketing/010 Marketing MOC\|010 Marketing MOC]]
