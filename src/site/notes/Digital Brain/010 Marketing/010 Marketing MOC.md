@@ -19,7 +19,7 @@ I have a lot more I want to write so I'll use this MOC also as my content roadma
 I hope you find value.
 
 ---
-## Startup Growth Engine Playbook
+## Startup Growth Engine Playbook (WIP)
 ### Part 1: The Blueprint
 
 [[Digital Brain/010 Marketing/Growth marketing\|Growth marketing]]
@@ -81,11 +81,19 @@ I hope you find value.
 - Disadvantages
 - Building an MVP content machine
 
-SEO 
-- Developing a content strategy that drives growth and optimizing for search engines
-- Strategies for growth through SEO
-- UPchieve case study
-- On-page, off-page, and technical SEO
+[[Digital Brain/010 Marketing/SEO (part 1)\|SEO (part 1)]]
+- How search engines work
+- Keyword research
+- Content marketing and SEO
+
+[[SEO (part 2)\|SEO (part 2)]]
+- On-page SEO
+- Off-page SEO
+- Local SEO
+
+SEO (part 3)
+- Technical SEO
+- Measuring and analyzing SEO performance
 
 Social media 
 - Leveraging social media and community for user-generated content and influencer partnerships
