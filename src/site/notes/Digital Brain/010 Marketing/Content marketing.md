@@ -41,6 +41,6 @@ So, how do we tackle this beast? Treat it like a startup and build an MVP conten
 5. **Distribute, repurpose, and distribute again.** Don’t just hit publish once and call it done. Repurpose your content into multiple pieces of different types of content and share it again. Also don't be afraid to literally repost content you've already shared. Chances are, only a small portion of your followers saw your first content.
 6. **Measure, learn, repeat.** Refer back to the goal. Keep an eye on what works and what flops. Repost it again to see if it does flop. It's all an experiment and you need as big of a sample size as you can get. Use that intel to do more of the good stuff and less of the rest.
 
-[[SEO\|SEO]]
+[[Digital Brain/010 Marketing/SEO (part 1)\|SEO (part 1)]]
 
 [[Digital Brain/010 Marketing/010 Marketing MOC\|010 Marketing MOC]]
