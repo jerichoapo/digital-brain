@@ -81,19 +81,29 @@ I hope you find value.
 - Disadvantages
 - Building an MVP content machine
 
-[[Digital Brain/010 Marketing/SEO (part 1)\|SEO (part 1)]]
+[[Digital Brain/010 Marketing/SEO basics\|SEO basics]]
 - How search engines work
 - Keyword research
 - Content marketing and SEO
 
-[[SEO (part 2)\|SEO (part 2)]]
-- On-page SEO
-- Off-page SEO
-- Local SEO
+[[Digital Brain/010 Marketing/On-page SEO\|On-page SEO]]
+- Content quality and relevance
+- Title
+- Graphics
+- Meta description
+- Structure
+- Internal linking
 
-SEO (part 3)
-- Technical SEO
-- Measuring and analyzing SEO performance
+[[Off-page SEO\|Off-page SEO]]
+- Importance of backlinks
+- Building high-quality backlinks
+- Do's and dont's
+
+[[Technical SEO\|Technical SEO]]
+- Website speed and mobile friendliness
+- HTTPS for security
+- Creating and optimizing an XML sitemap
+- Schema markup for search visibility
 
 Social media 
 - Leveraging social media and community for user-generated content and influencer partnerships
@@ -136,7 +146,7 @@ Email marketing
 
 ### Part 5: Maintaining The Engine: Retention and Referral
 
-Improving user retention
+Retention
 - Implementing strategies to improve user retention and reduce churn
 - The importance of retention in growth marketing
 - Engagement and reactivation campaigns
@@ -150,6 +160,8 @@ Building a referral program
 - Successful referral program examples
 - Virality coefficient and product virality
 
+Community (the other half)
+- Building community vs building a community
 ### Part 6: Accelerating The Engine: Scaling and Experimentation
 
 Scaling your growth efforts
