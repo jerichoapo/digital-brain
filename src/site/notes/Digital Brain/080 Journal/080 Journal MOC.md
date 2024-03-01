@@ -15,6 +15,7 @@ Reflections, intentions, gratitude. All these things don't need to wait until a 
 I'm not sure how I'll balance writing here vs. on my actual physical journals. I prefer writing things down, but I'll this is where I'll store notes that don't belong in the other categories.
 
 - [[Digital Brain/080 Journal/Develop a hall of fame mindset\|Develop a hall of fame mindset]]
+- [[Digital Brain/080 Journal/Growing up without a father\|Growing up without a father]]
 - [[Digital Brain/080 Journal/Learn in public\|Learn in public]]
 - [[Digital Brain/080 Journal/My north star\|My north star]]
 - [[Digital Brain/080 Journal/People watching\|People watching]]
