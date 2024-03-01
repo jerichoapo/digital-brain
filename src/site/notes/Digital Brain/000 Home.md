@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/digital-brain/000-home/","tags":["gardenEntry"]}
 ---
 
-Hi, I'm Jericho. Welcome to my digital brain. 
+Hi, I'm Jericho. Welcome to my digital brain. A project to upload my thoughts and memories to the internet.
 
-I built this because the human brain is great at creating ideas and thoughts but it's terrible at remembering them. This is where I'll publicly document my notes and reflections on marketing, startups, life, and everything in between. 
+I built this because the human brain is great at creating ideas but it's terrible at remembering them. This is where I'll publicly document my notes and reflections on marketing, startups, life, and everything in between. 
 
-My writing is imperfect whether that's typos, grammar, lack of formatting, etc. You'll notice different writing styles because some are old unedited notes or new incomplete notes. Some writing are my own while some are curated from various sources like courses, videos, podcasts, blogs, etc.
+My writing is imperfect whether that's typos, grammar, lack of formatting, etc. You'll notice different writing styles because some are old unedited notes or new incomplete notes. I'm also writing these in one sitting with little thought of editing. Some thoughts are my own while some are curated from various sources like courses, videos, podcasts, blogs, etc.
 
 This website is a continuous work-in-progress. It's me working with the garage door open for anyone to come in and look around.
 
