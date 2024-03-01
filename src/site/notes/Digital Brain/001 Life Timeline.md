@@ -61,6 +61,6 @@ The purpose of this page:
 ## 1999
 - My first business, [[Digital Brain/080 Journal/Selling pokemon cards in 3rd grade\|Selling pokemon cards in 3rd grade]]
 ## 1993
-- Dad leaves our family
+- Dad leaves our family ([[Digital Brain/080 Journal/Growing up without a father\|Growing up without a father]])
 ## 1991
 - Born and raised in the Philippines
