@@ -94,18 +94,18 @@ I hope you find value.
 - Structure
 - Internal linking
 
-[[Off-page SEO\|Off-page SEO]]
+[[Digital Brain/010 Marketing/Off-page SEO\|Off-page SEO]]
 - Importance of backlinks
-- Building high-quality backlinks
-- Do's and dont's
+- Six ways to build SEO backlinks
+- Dos and don'ts of off-page SEO
 
-[[Technical SEO\|Technical SEO]]
+[[Digital Brain/010 Marketing/Technical SEO\|Technical SEO]]
 - Website speed and mobile friendliness
 - HTTPS for security
 - Creating and optimizing an XML sitemap
 - Schema markup for search visibility
 
-Social media 
+[[Social media\|Social media]]
 - Leveraging social media and community for user-generated content and influencer partnerships
 - Using social media for growth
 - HGE case study
