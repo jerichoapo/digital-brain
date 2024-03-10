@@ -38,6 +38,6 @@ Internal linking is where you get to flex your site structure muscles. By linkin
 
 In essence, mastering these on-page SEO essentials is about making your site irresistible to both search engines and humans. It's not rocket science, but it does take a bit of know-how and a lot of attention to detail. So, roll up your sleeves, dive in, and start optimizing. The top of the search results page is waiting for you.
 
-[[Off-page SEO\|Off-page SEO]]
+[[Digital Brain/010 Marketing/Off-page SEO\|Off-page SEO]]
 
 [[Digital Brain/010 Marketing/010 Marketing MOC\|010 Marketing MOC]]
