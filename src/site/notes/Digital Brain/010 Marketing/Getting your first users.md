@@ -17,9 +17,14 @@ Ok nerds, elif is short for "else if" also known as if this happens then do this
 
 Once you've gone through your contacts, it's time to get creative. Here are a few strategies:
 
-- **Startup communities.** This is where I'd start. Dive into local meetups, hackathons, or online platforms like Startup Grind, Product Hunt, or AngelList. Share your journey, seek advice, and genuinely engage. It's a give-and-take environment; be ready to offer your own insights and support to others as well.
-- **Online communities.** Facebook groups, Slack communities, Reddit, forums related to your product. Don't go in guns blazing with a sales pitch. Contribute, add value, and then softly introduce what you're working on.
-- **Partnership and Collaboration.** This is harder and more complicated. I wouldn't prioritize this but it could be big. The idea is to team up with other startups or businesses that complement your product. Companies that share your target audience but aren’t direct competitors. Collab on webinars, co-authoring blog posts, or cross-promoting each other’s services can open your startup to a whole new audience.
+- Startup communities
+This is where I'd start. Dive into local meetups, hackathons, or online platforms like Startup Grind, Product Hunt, or AngelList. Share your journey, seek advice, and genuinely engage. It's a give-and-take environment; be ready to offer your own insights and support to others as well.
+
+- Online communities
+Facebook groups, Slack communities, Reddit, forums related to your product. Don't go in guns blazing with a sales pitch. Contribute, add value, and then softly introduce what you're working on.
+
+- Partnership and Collaboration
+This is harder and more complicated. I wouldn't prioritize this but it could be big. The idea is to team up with other startups or businesses that complement your product. Companies that share your target audience but aren’t direct competitors. Collab on webinars, co-authoring blog posts, or cross-promoting each other’s services can open your startup to a whole new audience.
 
 ### Authentic cold outreach
 
