@@ -10,13 +10,21 @@ The core idea here is getting a grip on "How many people can I actually serve?"
 This is your potential growth playground. It’s the total market demand for the product or service you offer. This matters because it sets the boundaries of your ambition. It helps you answer the big question: How big could this thing get? 
 
 ### Here's a framework to calculate TAM
-1. **Define Your Target Customer.** We talked about this in the last section. Pinpoint the demographics, geographics, and psychographics of your ideal customer. Who are they? Where do they live? What are their interests, needs, and behaviors? 
-2. **Analyze Market Segmentation.** Break down the larger market into segments that represent your target customer groups. This could be based on industry, location, product type, customer size, etc.
-3. **Research Market Size.** Use industry reports, market research studies, and government databases to find the total number of potential customers in each segment. Look for the most recent and relevant data. The numbers won't be perfect, but you're trying to get some rough estimates to have a sense of the size.
-4. **Determine Penetration Rate.** Assess your product’s or service's potential penetration rate in each segment. Consider factors like competition, market trends, and your product’s unique value proposition.
-5. **Calculate Revenue Potential.**
-	1. Average Revenue Per User (ARPU): Estimate the average revenue you expect to generate per customer annually. This will vary based on your pricing model, product type, and customer segment.
-	1. Multiply for TAM: For each segment, multiply the total number of potential customers by the estimated ARPU to get the revenue potential. Sum these figures across all segments to get your TAM.
+1. Define Your Target Customer
+We talked about this in the last section. Pinpoint the demographics, geographics, and psychographics of your ideal customer. Who are they? Where do they live? What are their interests, needs, and behaviors? 
+
+2. Analyze Market Segmentation
+Break down the larger market into segments that represent your target customer groups. This could be based on industry, location, product type, customer size, etc.
+
+3. Research Market Size
+Use industry reports, market research studies, and government databases to find the total number of potential customers in each segment. Look for the most recent and relevant data. The numbers won't be perfect, but you're trying to get some rough estimates to have a sense of the size.
+
+4. Determine Penetration Rate
+Assess your product’s or service's potential penetration rate in each segment. Consider factors like competition, market trends, and your product’s unique value proposition.
+
+5. Calculate Revenue Potential
+- 5.1 Average Revenue Per User (ARPU): Estimate the average revenue you expect to generate per customer annually. This will vary based on your pricing model, product type, and customer segment.
+- 5.2 Multiply for TAM: For each segment, multiply the total number of potential customers by the estimated ARPU to get the revenue potential. Sum these figures across all segments to get your TAM.
 
 ### How to run competitive research
 
