@@ -34,12 +34,23 @@ For content marketing to work, you need to align on the goal that this is a long
 
 So, how do we tackle this beast? Treat it like a startup and build an MVP content machine that’s lean and designed to scale:
 
-1. **Strategy first.** What’s the goal? Traffic? Engagement? Follows? Define what winning looks like for you in the first few weeks, months, and quarters. As much as vanity metrics like shares, followers, comments, etc. don't matter. It matters in the early stages as you're getting a feel for what resonates with your audience.
-2. **Know your audience.** Speaking of your audience, refer back to your ICP research. Get into your audience's head. What do they need? What keeps them up at night? Talk about those things like you're a trusted friend with a whole lot of wisdom.
-3. **Create.** Put your head down and create. Make every piece of content count. Educate. Entertain. Edutain. If it doesn’t serve a purpose, scrap it. It's easy enough today to fire up Canva and create graphics. It's easy enough to ask ChatGPT to help you brainstorm content ideas. Sit down (or stand), and create content.
-4. **Play to your strengths.** Are you a wordsmith? Great on camera? A voice for radio? Use what you’re good at to create content that stands out. And if none of these are you, remember everything I said in the last bullet where everything is easier today. It's also easy and relatively affordable to hire someone on a contract to create all these things for you.
-5. **Distribute, repurpose, and distribute again.** Don’t just hit publish once and call it done. Repurpose your content into multiple pieces of different types of content and share it again. Also don't be afraid to literally repost content you've already shared. Chances are, only a small portion of your followers saw your first content.
-6. **Measure, learn, repeat.** Refer back to the goal. Keep an eye on what works and what flops. Repost it again to see if it does flop. It's all an experiment and you need as big of a sample size as you can get. Use that intel to do more of the good stuff and less of the rest.
+1. Strategy first
+What’s the goal? Traffic? Engagement? Follows? Define what winning looks like for you in the first few weeks, months, and quarters. As much as vanity metrics like shares, followers, comments, etc. don't matter. It matters in the early stages as you're getting a feel for what resonates with your audience.
+
+2. Know your audience
+Speaking of your audience, refer back to your ICP research. Get into your audience's head. What do they need? What keeps them up at night? Talk about those things like you're a trusted friend with a whole lot of wisdom.
+
+3. Create
+Put your head down and create. Make every piece of content count. Educate. Entertain. Edutain. If it doesn’t serve a purpose, scrap it. It's easy enough today to fire up Canva and create graphics. It's easy enough to ask ChatGPT to help you brainstorm content ideas. Sit down (or stand), and create content.
+
+4. Play to your strengths
+Are you a wordsmith? Great on camera? A voice for radio? Use what you’re good at to create content that stands out. And if none of these are you, remember everything I said in the last bullet where everything is easier today. It's also easy and relatively affordable to hire someone on a contract to create all these things for you.
+
+5. Distribute, repurpose, and distribute again
+Don’t just hit publish once and call it done. Repurpose your content into multiple pieces of different types of content and share it again. Also don't be afraid to literally repost content you've already shared. Chances are, only a small portion of your followers saw your first content.
+
+6. Measure, learn, iterate
+Refer back to the goal. Keep an eye on what works and what flops. Repost it again to see if it does flop. It's all an experiment and you need as big of a sample size as you can get. Use that intel to do more of the good stuff and less of the rest.
 
 [[Digital Brain/010 Marketing/SEO basics\|SEO basics]]
 
