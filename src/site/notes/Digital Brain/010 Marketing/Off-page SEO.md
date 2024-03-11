@@ -14,19 +14,19 @@ The crown jewel of off-page SEO: backlinks. These are links from other sites bac
 
 So, how do you get these golden tickets? It’s not spamming forums or buying links. Building high-quality backlinks it's creating killer content that people want to share, leveraging relationships with influencers or industry leaders, and guest blogging on reputable sites in your niche. It’s about providing value so irresistible that others can’t help but link to it.
 
-1) Design content for humans first, then backlinks next.
+1) Design content for humans first, then backlinks next
 First and foremost, your creating content for humans to read so always put them first. Then to increase your chances of getting backlinks, create content that is worthy of linking. Content that answers questions, solves problems, or just blows people's minds. We're talking ultimate guides, in-depth research, insightful case studies, or even controversial takes that get people talking. Make it so good that other sites can’t help but reference it.
 
 2) Guest blogging
 Guest blogging isn't dead; it's just evolved. The key is to contribute to reputable sites where your target audience hangs out. Don't just pitch a thinly-veiled ad for your startup. Offer genuine value. Share your unique insights, experiences, or data. It’s a win for both sides. You get exposure and a backlink, they get great content.
 
-3) Relationships: the long game.
+3) Relationships: the long game
 Networking isn't a dirty word. Build relationships with influencers, bloggers, and other startups in your space. Engage with their content, offer genuine feedback, and when the time is right, introduce them to your content that genuinely adds value to their audience. It’s not about what you can get, it’s about what you can give.
 
 4) Be a source for reporters and writers
 Tools like HARO (Help a Reporter Out) are goldmines for scoring backlinks. Reporters are always looking for experts to quote in their articles. Offer your insights, and you might just land a backlink from a major publication. Remember, be quick, be helpful, and be specific in your responses.
 
-5) Social media... responsibly. 
+5) Social media... responsibly.
 No, simply posting your links on social media isn’t going to directly boost your SEO. Yes, posting your links to Reddit or Quora raises eyebrows in a bad way. But, engaging in conversations, provide value, and subtly introduce content that enhances the discussion. That's the stuff that'll help you build a good reputation. Give away your writing for free, literally copy/paste it on the platform and then you can do a subtle promo like "Hey I wrote about this here if you want to read more" or "I'm writing more stuff like this, DM me if you want to see more. Would love to get your feedback".
 
 6) Fix broken backlinks
